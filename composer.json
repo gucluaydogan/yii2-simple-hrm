@@ -1,0 +1,21 @@
+{
+    "name": "gucluaydogan/yii2-simple-hrm",
+    "description": "A simple human resources management for small companies",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","hrm"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Guclu Aydogan",
+            "email": "guclu@aresbt.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "gucluaydogan\\hrm\\": ""
+        }
+    }
+}
